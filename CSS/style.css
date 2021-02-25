@@ -114,6 +114,16 @@ footer {
   color: white;
 }
 
+#orderNow {
+  margin-bottom: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+  font-size: 15px;
+}
+
 @media (max-width: 1440px) {
   #titleH1 {
     font-size: 105px;
@@ -331,6 +341,16 @@ footer {
 
   #footerText {
     margin-left: 77px;
+  }
+
+  #orderNow {
+    margin-bottom: 20px;
+  }
+
+  a {
+    color: #ffffff;
+    text-decoration: underline;
+    font-size: 9px;
   }
 }
 
