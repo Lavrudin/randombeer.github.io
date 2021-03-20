@@ -94,6 +94,7 @@ body {
   font-size: 50px;
   color: #f7941d;
   cursor: pointer;
+  outline: none;
 }
 
 .pulsate-bck {
